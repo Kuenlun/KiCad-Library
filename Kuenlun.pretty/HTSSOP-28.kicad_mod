@@ -401,4 +401,9 @@
   (pad "27" smd rect (at 2.871 -3.574999) (size 1.161999 0.3048) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d296b4c1-7000-4838-8efb-7d3b64ad3d15))
   (pad "28" smd rect (at 2.871 -4.225) (size 1.161999 0.3048) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cea2b9a7-9cd6-46ec-aa45-6436c8067d8c))
   (pad "EPAD" smd rect (at 0 0) (size 3.0988 4.0386) (layers "F.Cu" "F.Mask") (tstamp 96a1cc51-0979-4403-b9d6-e3db0f5c1a79))
+  (model "C:/Dev/KiCad/KiCad-Library/Kuenlun.pretty/HTSSOP-28.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
