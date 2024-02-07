@@ -326,6 +326,7 @@
   (pad "EPAD" thru_hole circle (at 0 -1.8) (size 0.55 0.55) (drill 0.25) (layers "*.Cu") (tstamp 4c94902e-fad1-4daa-9621-ee86316797fa))
   (pad "EPAD" thru_hole circle (at 0 -0.6) (size 0.55 0.55) (drill 0.25) (layers "*.Cu") (tstamp 2b12072b-7395-4727-80ae-d7538ce73ecd))
   (pad "EPAD" smd roundrect (at 0 0) (size 3.4 9.7) (layers "F.Cu") (roundrect_rratio 0.01470588235) (tstamp 96a1cc51-0979-4403-b9d6-e3db0f5c1a79))
+  (pad "EPAD" smd roundrect (at 0 0) (size 3.4 9.7) (layers "B.Cu" "B.Mask") (roundrect_rratio 0.01470588235) (tstamp b28ea117-ad0f-4b18-8bab-83dd57fdc2c7))
   (pad "EPAD" thru_hole circle (at 0 0.6) (size 0.55 0.55) (drill 0.25) (layers "*.Cu") (tstamp da75cba8-5aac-46ae-a793-a804f37724fc))
   (pad "EPAD" thru_hole circle (at 0 1.8) (size 0.55 0.55) (drill 0.25) (layers "*.Cu") (tstamp b6473b54-321a-407e-9f8a-76312e70702a))
   (pad "EPAD" thru_hole circle (at 0 3) (size 0.55 0.55) (drill 0.25) (layers "*.Cu") (tstamp 3edb99e2-39c1-4139-945f-e4704531a734))
@@ -338,7 +339,7 @@
   (pad "EPAD" thru_hole circle (at 1.2 1.8) (size 0.55 0.55) (drill 0.25) (layers "*.Cu") (tstamp c4a95b62-02ed-4d9a-acc3-0f1a56668116))
   (pad "EPAD" thru_hole circle (at 1.2 3) (size 0.55 0.55) (drill 0.25) (layers "*.Cu") (tstamp fcc2d437-c427-437c-91f4-2ef5442c2892))
   (pad "EPAD" thru_hole circle (at 1.2 4.2) (size 0.55 0.55) (drill 0.25) (layers "*.Cu") (tstamp 3659ce1f-ad59-4193-8590-60f8cf3b75d1))
-  (model "C:/Dev/KiCad/KiCad-Library/Kuenlun.pretty/HTSSOP-28.stp"
+  (model "${KIPRJMOD}/KiCad-Library/Kuenlun.pretty/HTSSOP-28.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
