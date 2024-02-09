@@ -469,7 +469,7 @@
         (name "DVDD" (effects (font (size 1.27 1.27))))
         (number "15" (effects (font (size 1.27 1.27))))
       )
-      (pin output line (at 20.32 -16.51 180) (length 7.62)
+      (pin output line (at 20.32 -19.05 180) (length 7.62)
         (name "NFAULT" (effects (font (size 1.27 1.27))))
         (number "16" (effects (font (size 1.27 1.27))))
       )
